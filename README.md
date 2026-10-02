@@ -6,7 +6,7 @@ Mappatura e analisi della distribuzione delle strutture sportive nelle principal
 
 ## 🗺️ Mappa interattiva
 
-👉 [Visualizza la mappa](https://sportbusinesslabconsultancy.github.io/15-Minute-Sport-Cities/15%20Minutes%20sport%20cities-mappa%20finale.html)
+👉 [Visualizza la mappa](https://sportbusinesslabconsultancy.github.io/15_minutes_sport_cities/15%20Minutes%20sport%20cities-mappa%20finale.html)
 
 ---
 
